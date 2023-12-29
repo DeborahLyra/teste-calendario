@@ -8,7 +8,6 @@ import './style.css';
 function Calendario() {
   const [value, setValue] = useState(new Date());
   const [diasDeAula, setDiasDeAula] = useState(1); 
-  const [selectedDate, setSelectedDate] = useState({});
   const [presencas, setPresencas] = useState([]);
   const [faltas, setFaltas] = useState([]);
 
