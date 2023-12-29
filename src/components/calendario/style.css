@@ -1,0 +1,12 @@
+.custom-calendar {
+    font-family: 'Times New Roman', Times, serif;
+    border: 5px solid #ccc;
+    width: 50%;
+    height: 100%;
+    color: orange;
+  }
+
+  .marked-day {
+    background-color: orange;
+  
+  }
