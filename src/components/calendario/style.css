@@ -10,3 +10,16 @@
     background-color: orange;
   
   }
+
+  .red-day{
+    background-color: red;
+  }
+
+  .green-day{
+    background-color: green;
+  }
+
+  .selected-day {
+    background-color: red; /* Cor de fundo vermelha */
+    color: white; /* Cor do texto, opcional */
+  }
